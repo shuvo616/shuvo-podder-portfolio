@@ -150,6 +150,7 @@ body{
 
 .experiance {
     background: #eff4ff;
+    height: 450px;
 }
 .experiance h1 {
     font-size: 30px;
@@ -158,9 +159,10 @@ body{
     margin-top: 50px;
 }
 .half-width {
-    width: 400px;
+    width: 380px;
     float: left;
-    margin-left: 80px;
+    margin-left: 65px;
+    padding: 10px;
 }
 .half-width h2 {
     font-size: 30px;
@@ -234,4 +236,10 @@ body{
     height: 30px;
     width: 30px;
     margin-left: 20px;
+}
+.single-experience {
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 5px;
+    height: 50%;
+    border-left: 7px solid #fa7162;
 }
